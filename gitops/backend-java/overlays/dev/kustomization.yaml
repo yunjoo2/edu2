@@ -6,7 +6,7 @@ resources:
 
 images:
   - name: eduazureregistry.azurecr.io/backend-java
-    newTag: main-2222
+    newTag: main-
 
 commonLabels:
   app: backend-java
